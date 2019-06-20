@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BDE1B1C5-94BC-4AFB-9472-407D1F53E548}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpAppiumNative/Program.cs">
+    <Files>
+      <File FileName="CSharpAppiumNative/Program.cs" Line="17" Column="9" />
+      <File FileName="CSharpAppiumNative/IosTester.cs" Line="2" Column="25" />
+      <File FileName="CSharpAppiumNative/AndroidTester.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpAppiumNative" expanded="True">
+            <Node name="CSharpAppiumNative" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpAppiumNative PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
